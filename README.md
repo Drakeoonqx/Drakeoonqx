@@ -5,9 +5,6 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Drakeoonqx/Drakeoonqx/master/vector.jpg" alt="karan-vector" height="300px" />
-
-
 ### 🌍 Let's Connect!
 
 <table>
@@ -67,17 +64,12 @@
    </tr>
 </table>
 
-<br />
 
 ---
 
 ### 📈 Github Stats
 
-<div>
-  <img align="left" alt="Drakeoonqx's Github Stats" src="https://github-readme-stats.Drakeoonqx.vercel.app/api?username=Drakeoonqx&show_icons=true&hide_border=true&title_color=79b8ff&bg_color=24292e&text_color=79b8ff&hide=stars,issues"/>
-</div>
 
-<br />
 
 [linkedin]: https://linkedin.com/in/Drakeoonqx
 [twitter]: https://twitter.com/Drakeoonqx
